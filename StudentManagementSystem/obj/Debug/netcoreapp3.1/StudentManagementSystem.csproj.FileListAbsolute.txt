@@ -1,0 +1,13 @@
+C:\Assignment\StudentManagementSystem\StudentManagementSystem\bin\Debug\netcoreapp3.1\StudentManagementSystem.exe
+C:\Assignment\StudentManagementSystem\StudentManagementSystem\bin\Debug\netcoreapp3.1\StudentManagementSystem.deps.json
+C:\Assignment\StudentManagementSystem\StudentManagementSystem\bin\Debug\netcoreapp3.1\StudentManagementSystem.runtimeconfig.json
+C:\Assignment\StudentManagementSystem\StudentManagementSystem\bin\Debug\netcoreapp3.1\StudentManagementSystem.runtimeconfig.dev.json
+C:\Assignment\StudentManagementSystem\StudentManagementSystem\bin\Debug\netcoreapp3.1\StudentManagementSystem.dll
+C:\Assignment\StudentManagementSystem\StudentManagementSystem\bin\Debug\netcoreapp3.1\StudentManagementSystem.pdb
+C:\Assignment\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.csprojAssemblyReference.cache
+C:\Assignment\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Assignment\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.AssemblyInfo.cs
+C:\Assignment\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Assignment\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.dll
+C:\Assignment\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.pdb
+C:\Assignment\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.genruntimeconfig.cache
