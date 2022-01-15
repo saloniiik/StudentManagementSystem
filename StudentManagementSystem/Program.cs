@@ -9,6 +9,7 @@ namespace StudentManagementSystem
             IUserInterface desc = new ScreenDescription();
             while (true)
             {
+                Console.WriteLine("Interface");
                 desc.showFirstScreen();
             }
         }
